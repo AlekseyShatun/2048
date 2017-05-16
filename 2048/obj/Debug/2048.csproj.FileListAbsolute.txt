@@ -1,0 +1,13 @@
+c:\users\arthas\documents\visual studio 2015\Projects\2048\2048\bin\Debug\2048.exe.config
+C:\Users\Arthas\documents\visual studio 2015\Projects\2048\2048\bin\Debug\2048.exe
+C:\Users\Arthas\documents\visual studio 2015\Projects\2048\2048\bin\Debug\2048.pdb
+C:\Users\Arthas\documents\visual studio 2015\Projects\2048\2048\bin\Debug\MetroFramework.dll
+C:\Users\Arthas\documents\visual studio 2015\Projects\2048\2048\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Arthas\documents\visual studio 2015\Projects\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+C:\Users\Arthas\documents\visual studio 2015\Projects\2048\2048\obj\Debug\_2048.Form1.resources
+C:\Users\Arthas\documents\visual studio 2015\Projects\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\Arthas\documents\visual studio 2015\Projects\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+C:\Users\Arthas\documents\visual studio 2015\Projects\2048\2048\obj\Debug\2048.exe
+C:\Users\Arthas\documents\visual studio 2015\Projects\2048\2048\obj\Debug\2048.pdb
+C:\Users\Arthas\documents\visual studio 2015\Projects\2048\2048\obj\Debug\_2048.Form_avtors.resources
+C:\Users\Arthas\documents\visual studio 2015\Projects\2048\2048\obj\Debug\_2048.Form_play.resources
